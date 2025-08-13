@@ -7,7 +7,7 @@ The notebook includes EDA, visualizations, and ML models (Logistic Regression, R
 Dataset
 
 File: CVD_cleaned.csv 
-
+https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset 
 Target: Heart_Disease (Yes/No, converted to 1/0)
 
 Example features:
